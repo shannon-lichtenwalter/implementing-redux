@@ -1,6 +1,6 @@
 # Implementing Redux
 
-An interview excercise where the candidate will implement a Redux-like library.
+You'll be building a clone of Redux -- in this case, dedux -- in the service of a simple counter app.
 
 ## Install dependencies
 
